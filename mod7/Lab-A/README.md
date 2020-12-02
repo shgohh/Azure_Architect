@@ -280,6 +280,6 @@ The main tasks for this exercise are as follows:
 
 1. In the list of user accounts, select the entry representing the **az30310aaduser1** user account, select the ellipsis icon in the toolbar, select **Delete user** and select **Yes** when prompted to confirm.  
 
-1. In the Azure portal, navigate to the blade displaying properties of your Azure subscriptions, select the **Access control (IAM)** entry, and then select **Roles**.
+1. In the Azure portal, navigate to the blade displaying properties of your **Azure subscriptions**, select the **Access control (IAM)** entry, and then select **Roles**.
 
 1. In the list of roles, select the **Virtual Machine Operator (Custom)** entry, select **Remove** and, when prompted to confirm, select **Yes**.
