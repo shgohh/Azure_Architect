@@ -562,4 +562,4 @@ Use the following steps to stop the Azure VM you provisioned earlier in the lab.
  
 1. On the **az500-04-vm1** blade, click **Stop** and, when prompted to confirm, click **OK** 
 
->  Do not remove any resources provisioned in this lab, since the PIM lab has a dependency on them.
+>  Please remove all the resources provisioned in this lab. 
